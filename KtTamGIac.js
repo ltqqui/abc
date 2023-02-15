@@ -1,0 +1,5 @@
+var productsListElement = document.querySelector('.products-list') ;    console.log(productsListElement)
+var firstProductElement =document.querySelector('.product:first-child')
+console.log(firstProductElement)
+var buttonElements =document.querySelectorAll('button')
+console.log(buttonElements)
